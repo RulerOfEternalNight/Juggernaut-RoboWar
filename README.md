@@ -5,6 +5,8 @@
 ![war](https://raw.githubusercontent.com/Jegadit/WarMachine-RoboWar/master/img/war1.jpg)
 ![war2](https://raw.githubusercontent.com/Jegadit/WarMachine-RoboWar/master/img/war2.jpg)
 
+
+![Controller](https://github.com/Jegadit/WarMachine-RoboWar/blob/master/circuiting/LM298.jpg)
 ---
 
 ## Circuit Design
