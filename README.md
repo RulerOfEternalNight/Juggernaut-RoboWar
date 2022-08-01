@@ -1,4 +1,4 @@
-# The Smasher
+# The Juggernaut
 
 
 ## The Bot Design
