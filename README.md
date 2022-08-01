@@ -1,4 +1,4 @@
-# The Devastator
+# The Smasher
 
 
 ## The Bot Design
